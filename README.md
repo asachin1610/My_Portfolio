@@ -1,12 +1,69 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Name
 
-Currently, two official plugins are available:
+**Personal Portfolio Website**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📄 Project Description
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was created as part of my learning journey to strengthen my skills in **frontend development**, especially with **React**, **Tailwind CSS**, and **Framer Motion**. It serves as a digital representation of my professional identity, showcasing my background, technical skills, and featured projects. With a fully responsive layout and smooth animations, this portfolio aims to deliver both performance and modern visual appeal.
+
+---
+
+## ✨ Features
+
+- Responsive design for mobile, tablet, and desktop
+- Animated page transitions using Framer Motion
+- Clean and modern UI with Tailwind CSS
+- Organized sections for About, Skills, Tools, Projects, and Contact
+- Interactive links to LinkedIn, Instagram, GitHub, email, and phone
+- Easy-to-navigate project showcase
+- Fully optimized for speed and performance
+
+---
+
+## 🧩 Sections Overview
+
+### 📖 About
+A brief introduction about me, who I am, and what I aim to achieve.
+
+### 🧠 Skills
+My core competencies in technologies like HTML, CSS, JavaScript, React, and more.
+
+### 🛠️ Tools
+Technologies and development tools I frequently use.
+
+### 🏗️ Projects
+Highlights of some of my notable works, with links and descriptions.
+
+### 📬 Contact
+Ways to connect with me:
+- LinkedIn
+- Instagram
+- GitHub
+- Email
+- Phone number
+
+---
+
+## 💻 Tech Stack
+
+- **React** – JavaScript library for building UI
+- **Tailwind CSS** – Utility-first CSS framework for styling
+- **Framer Motion** – Animation library for React
+- **HTML5** & **CSS3**
+- **JavaScript (ES6+)**
+
+---
+## 🙌 Acknowledgements
+This project was created as part of my learning journey to strengthen my skills in frontend development, especially with React, Tailwind CSS, and Framer Motion.
+Special thanks to:
+
+The open-source community for excellent documentation and libraries.
+
+UI/UX inspirations from Dribbble and modern web portfolios.
+
+React and Tailwind communities for guidance and best practices.
+
