@@ -8,7 +8,7 @@ const NavbarLogo = () => {
         </h1>
         <h1 className='text-white font-special font-extrabold text-4xl block md:hidden'>SACHIN</h1>
     </div>
-  )
+  );
 };
 
-export default NavbarLogo 
+export default NavbarLogo;
