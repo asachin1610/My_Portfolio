@@ -12,7 +12,7 @@ const HeroPic = () => {
       viewport={{ once: false, amount: 0 }} 
       className='h-full flex items-center justify-center'>
         <img 
-          src="../../public/images/sachin_pic.png" 
+          src="../../images/sachin_pic.png" 
           alt='SACHIN KUMAR' 
           className='max-h-[450px] w-auto'
         />
