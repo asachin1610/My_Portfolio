@@ -18,7 +18,7 @@ const NavbarMain = () => {
             </div>
             <NavbarBtn/>
         </div>
-        <div className='flex lg:hidden sm:block p-6 bg-black items-center justify-center rounded-full border-[0.5px] border-orange-400'>
+        <div className='flex lg:hidden block p-6 bg-black items-center justify-center rounded-full border-[0.5px] border-orange-400'>
           <button 
           className="text-2xl-1536px p-3 border border-orange-400 rounded-full text-red-100"
           onClick={toggleMenu}>
