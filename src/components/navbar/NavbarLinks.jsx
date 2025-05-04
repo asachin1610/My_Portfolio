@@ -32,5 +32,3 @@ const NavbarLinks = () => {
 };
 
 export default NavbarLinks;
-
-export default NavbarLinks;
